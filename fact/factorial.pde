@@ -42,6 +42,6 @@ void display (int term){
     ellipse(400,400,A,A);
 }
   
-  
+  println(compute(term));// mostrar el factorial en consola
   
 }}
